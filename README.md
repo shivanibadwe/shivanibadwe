@@ -1,7 +1,6 @@
-Hi
 <h1 align="center">Hi 👋, I'm Shivani 👻</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-
+                
 - 🔭 I’m currently working on **everything backend**
 
 - 🌱 I’m currently learning **Spring, Springboot, Vuejs**
