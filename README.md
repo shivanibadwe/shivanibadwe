@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring, Springboot, Vuejs, MySQL**
 
-- 💬 Ask me about **Java, Spring**
+- 💬 Ask me about **Java, Spring, Springboot**
 
 <h3 align="left">Connect with me: -------</h3>
 <p align="left">
