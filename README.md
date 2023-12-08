@@ -3,7 +3,7 @@
                 
 - 🔭 I’m currently working on **everything backend**
 
-- 🌱 I’m currently learning **Spring, Springboot, Spring MVC, Vuejs**
+- 🌱 I’m currently learning **Spring, Springboot, Vuejs, MySQL**
 
 - 💬 Ask me about **Java, Spring**
 
