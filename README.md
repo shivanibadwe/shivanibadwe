@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Spring, MySQL**
   
--  I am using git for version control and GITLAB as remote repository test again.
+-  I use git for version control and GITHUB as remote repository.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
