@@ -3,11 +3,11 @@
                 
 - 🔭 I’m currently working on **everything backend**
 
--  I am using git for version control and gitlab for remote repository.
-
 - 🌱 I’m currently learning **Spring, Springboot, Vuejs**
 
 - 💬 Ask me about **Java, Spring**
+  
+-  I am using git for version control and GITLAB as remote repository.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
