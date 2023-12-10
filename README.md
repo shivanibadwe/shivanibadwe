@@ -3,7 +3,7 @@
                 
 - 🔭 I’m currently working on **everything backend**
 
--  I am using git for version control.
+-  I am using git for version control and gitlab.
 
 - 🌱 I’m currently learning **Spring, Springboot, Vuejs**
 
