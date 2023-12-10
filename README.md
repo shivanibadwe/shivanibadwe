@@ -3,13 +3,13 @@
                 
 - 🔭 I’m currently working on **everything backend**
 
-- 🌱 I’m currently learning **Spring, Springboot, Spring MVC, Spring Security, Vuejs**
+- 🌱 I’m currently learning **Spring, Springboot, Vuejs**
 
-- 💬 Ask me about **Java, Spring, Springboot**
+- 💬 Ask me about **Java, Spring, MySQL**
+  
+-  I use git for version control and GITHUB as remote repository.
 
-- need more
-
-<h3 align="left">Connect with me: -------</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
