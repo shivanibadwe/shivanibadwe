@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring, Springboot, Vuejs**
 
-- 💬 Ask me about **Java, Spring**
+- 💬 Ask me about **Java, Spring, MySQL**
   
 -  I am using git for version control and GITLAB as remote repository.
 
