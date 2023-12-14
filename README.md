@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning **Spring, Springboot, Vuejs**
 
 - 💬 Ask me about **Java, Spring, MySQL**
-- I use git for version control and GITHUB as remote repository.
+- I use git for version control and GITHUB as a remote repository.
+
+Thanks!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
